@@ -7,4 +7,6 @@ console-log('Tarea 2');
 }, 20000); 
 setTimeout(function(){
 console-log('Tarea 3');
-}, 10000); 
+
+ console.log(process.uptime());
+console.log('Fin del programa');
