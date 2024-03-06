@@ -1,0 +1,22 @@
+{
+  "name": "no_bloqueante",
+  "version": "1.0.0",
+  "description": "proyecto no bloqueante",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiram98Mtz/no_bloqueante.git"
+  },
+  "keywords": [
+    "noBloqueante"
+  ],
+  "author": "Hiram Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiram98Mtz/no_bloqueante/issues"
+  },
+  "homepage": "https://github.com/hiram98Mtz/no_bloqueante#readme"
+}
